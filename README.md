@@ -1,9 +1,11 @@
-Customer-Segmentation
-Problem Description
+**Customer-Segmentation**
+
+**Problem Description**
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
-Data Description
-Attribute Information:
+**Data Description**
+
+**Attribute Information:**
 
 InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
 
@@ -21,7 +23,8 @@ CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigne
 
 Country: Country name. Nominal, the name of the country where each customer resides.
 
-Customer-Segmentation information:
+**Customer-Segmentation information:**
+
 Also known as market segmentation, customer segmentation is the division of potential customers in a given market into discrete groups. That division is based on customers having similar:
 
 Needs (i.e., so a single whole product can satisfy them) Buying characteristics (i.e., responses to messaging, marketing channels, and sales channels, that a single go-to-market approach can be used to sell to them competitively and economically) There are three main approaches to market segmentation:
@@ -32,7 +35,8 @@ Needs-based segmentation is based on differentiated, validated drivers (needs) t
 
 Value-based segmentation differentiates customers by their economic value, grouping customers with the same value level into individual segments that can be distinctly targeted.
 
-What is the business use case of project?
+**What is the business use case of project?**
+
 Customer segmentation has a lot of potential benefits. It helps a company to develop an effective strategy for targeting its customers. This has a direct impact on the entire product development cycle, the budget management practices, and the plan for delivering targeted promotional content to customers.
 
 What is the potential impact of project?
